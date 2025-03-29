@@ -2,8 +2,8 @@
 
 This Arduino sketch demonstrates how to read temperature, humidity, and pressure data using two I2C sensors:
 
-- [Adafruit AHT20](https://www.adafruit.com/product/4566) — Temp + Humidity
-- [Adafruit BMP280](https://www.adafruit.com/product/2651) — Temp + Pressure
+- [AHT20] — Temp + Humidity
+- [BMP280] — Temp + Pressure
 
 ## 📦 What's Included
 
