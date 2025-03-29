@@ -38,3 +38,12 @@ Both sensors use I2C, so you can connect them to the same I2C bus:
 - Reads temperature and pressure from the BMP280
 - Prints the results to the Serial Monitor every second
 
+## 💻 Serial Output Example
+
+AHT20 found BMP280 found 
+Temp (AHT20): 24.53 °C Humidity: 41.22 % Temp (BMP280): 24.16 °C Pressure: 1013.25 hPa
+
+## 📜 License
+
+MIT License – see `LICENSE` for details.
+
